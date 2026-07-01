@@ -2,6 +2,7 @@
 
 A Machine Learning project that predicts whether a passenger survived the Titanic disaster using Logistic Regression and the Titanic dataset.
 
+---
 
 ## 📌 Project Overview
 
@@ -9,6 +10,7 @@ This project analyzes passenger information from the Titanic dataset and builds 
 
 The project includes data preprocessing, exploratory data analysis, feature engineering, model training, evaluation, and prediction.
 
+---
 
 ## ✨ Features
 
@@ -20,6 +22,7 @@ The project includes data preprocessing, exploratory data analysis, feature engi
 - Logistic Regression model
 - Survival prediction
 
+---
 
 ## 🛠️ Technologies Used
 
@@ -31,9 +34,11 @@ The project includes data preprocessing, exploratory data analysis, feature engi
 - Scikit-learn
 - Jupyter Notebook
 
+---
 
 ## 📂 Project Structure
 
+```text
 titanic-survival-prediction/
 
 │── train.csv
@@ -42,7 +47,9 @@ titanic-survival-prediction/
 │── README.md
 │── requirements.txt
 │── .gitignore
+```
 
+---
 
 ## 📊 Dataset
 
@@ -65,6 +72,7 @@ Dataset features include:
 - Family Information
 - Survival Status (Training Data)
 
+---
 
 ## ⚙️ Workflow
 
@@ -77,10 +85,13 @@ Dataset features include:
 7. Evaluate model performance
 8. Predict passenger survival
 
+---
 
 ## 📈 Machine Learning Algorithm
 
 - Logistic Regression
+
+---
 
 
 ## 🚀 How to Run
